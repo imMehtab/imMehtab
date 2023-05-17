@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imMehtab5
+- 👋 Hi, I’m @imMehtab
 - 👀 I’m interested in Programming And development!
 - 🌱 I’m currently learning Bsc Computer Science!
 - 📫 Contact me through email - mehtabshaikh453@gmail.com
